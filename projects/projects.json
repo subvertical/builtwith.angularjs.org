@@ -2,6 +2,23 @@
   "featured": "YouTube on PS3",
   "projects": [
     {
+      "name": "VerticalChange",
+      "thumb": "verticalchange/thumb.png",
+      "desc": "Modern Case Management Software (SurveyMonkey meets Highrise for Case Managers)",
+      "url": "https://verticalchange.com",
+      "info": "https://verticalchange.com",
+      "submitter": "dylanz",
+      "submissionDate": "2013-04-25",
+      "tags": [
+        "Production",
+        "Productivity",
+        "Surveys",
+        "Assessments,
+        "CRM",
+        "jQuery"
+      ]
+    },
+    {
       "name": "Shortkeys for Chrome",
       "thumb": "shortkeys-chrome/thumb.png",
       "desc": "A Chrome extension for custom keyboard shortcuts. Angular powers the admin/options UI",
@@ -1342,7 +1359,7 @@
         "Productivity",
         "Mobile",
         "Angular-Seed",
-        "Local Storage", 
+        "Local Storage",
         "Bootstrap",
         "Node.js",
         "BigCouch",
